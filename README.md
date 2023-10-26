@@ -26,7 +26,8 @@ Fitness Log Analytics is a data analytics project that aims to provide insights 
 ## Installation
 1. Clone this repository.
    
-   git clone https://github.com/stapa1/fitness-log-analytics.git
+   git clone https://github.com/Stapa1/Fitness-Insights.git
+   
    cd fitness-insights
 
 ## Usage
